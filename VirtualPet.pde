@@ -1,12 +1,11 @@
 
 void setup(){
   size (500,500);
-  stroke(0,220,220);
 }
 
 void draw(){
   fill(0,220,220);
-  
+  stroke(0,220,220);
   triangle(55,125, 65,295, 200,210);
 
   triangle(160,30, 20,20, 200,70);
